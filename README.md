@@ -1,4 +1,5 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/03CFrhn4mtBd0TNthB/giphy.gif" width="100"/> Hello, World!
+
 
 <!--
 **K1llaC0de/K1llaC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
