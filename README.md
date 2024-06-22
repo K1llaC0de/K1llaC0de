@@ -1,9 +1,9 @@
 # <img src="https://media.giphy.com/media/03CFrhn4mtBd0TNthB/giphy.gif" width="100"/> Hello, World!
 
 <p align="left">
-<img src="assets/icons8-gmail.svg" height="25px"/> <a href="mailto:lauracode00@gmail.com">
+<a href="mailto:lauracode00@gmail.com" target="_blank"><img alt="Gmail" src="assets/icons8-gmail.svg" height="25px"/></a>
 <img src="assets/icons8-linkedin.svg" height="25px">
-<img src="assets/icons8-discord.svg" height="25px"/> <a href="http://discord.com/users/k1llac0de">
+<a href="http://discord.com/users/k1llac0de" target="_blank"><img alt="Gmail" src="assets/icons8-discord.svg" height="25px"/></a>
 </p>
 
 Hi, I'm Laura ...
