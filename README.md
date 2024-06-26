@@ -1,16 +1,29 @@
 # <img src="https://media.giphy.com/media/03CFrhn4mtBd0TNthB/giphy.gif" width="100"/> Hello, World!
 
-<p align="left">
-<a href="mailto:lauracode00@gmail.com" target="_blank"><img alt="Gmail" src="assets/icons8-gmail.svg" height="25px"/></a>
-<img src="assets/icons8-linkedin.svg" height="25px">
-<a href="http://discord.com/users/k1llac0de" target="_blank"><img alt="Gmail" src="assets/icons8-discord.svg" height="25px"/></a>
-</p>
-
-Hi, I'm Laura ...
-
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=K1llaC0de" alt="K1llaC0de" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=K1llaC0de" alt="K1llaC0de" /> </p>
 </br>
+
+<div style="text-align: center;">
+<a href="mailto:lauracode00@gmail.com">
+  <img src="./assets/gmail-light.svg#gh-light-mode-only" alt="Gmail Light" width="30" height="30" />
+  <img src="./assets/gmail-dark.svg#gh-dark-mode-only" alt="Gmail Dark" width="30" height="30" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/k1llac0de">
+  <img src="./assets/discord-light.svg#gh-light-mode-only" alt="Discord Light" width="30" height="30" />
+  <img src="./assets/discord-dark.svg#gh-dark-mode-only" alt="Discord Dark" width="30" height="30" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/K1llaC0de">
+  <img src="./assets/linkedin-light.svg#gh-light-mode-only" alt="Linkedin Light" width="30" height="30" />
+  <img src="./assets/linkedin-dark.svg#gh-dark-mode-only" alt="Linkedin Dark" width="30" height="30" />
+</a>
+</div>
+
+
+I'm a IT engineer from Spain who likes playing and discover new things about this wonderful world of programming.
+
   
 ### 👨🏻‍💻 Languages and Tools
 <p align="left">
@@ -28,9 +41,6 @@ Hi, I'm Laura ...
 <a href="https://www.kali.org/" target="_blank"> <img align="left" alt="kali" height='42px' src="assets/icons8-kali-linux.svg"/></a>
 <br>
 </p>
-
-### 📊 Github Stats
-
 
 
 
