@@ -5,20 +5,13 @@
 </br>
 
 <div style="text-align: center;">
-<a href="mailto:lauracode00@gmail.com">
-  <img src="./assets/gmail-light.svg#gh-light-mode-only" alt="Gmail Light" width="30" height="30" />
-  <img src="./assets/gmail-dark.svg#gh-dark-mode-only" alt="Gmail Dark" width="30" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/k1llac0de">
-  <img src="./assets/discord-light.svg#gh-light-mode-only" alt="Discord Light" width="30" height="30" />
-  <img src="./assets/discord-dark.svg#gh-dark-mode-only" alt="Discord Dark" width="30" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/K1llaC0de">
-  <img src="./assets/linkedin-light.svg#gh-light-mode-only" alt="Linkedin Light" width="30" height="30" />
-  <img src="./assets/linkedin-dark.svg#gh-dark-mode-only" alt="Linkedin Dark" width="30" height="30" />
-</a>
+  <p align="left">
+      <img src="assets/gmail.svg" height="25px"/> <a href="mailto:lauracode00@gmail.com">
+      <a href="mailto:lauracode00@gmail.com" target="_blank"><img alt="Gmail" src="assets/icons8-gmail.svg" height="25px"/></a>
+      <img src="assets/linkedin.svg" height="25px">
+      <img src="assets/discord.svg" height="25px"/> <a href="http://discord.com/users/k1llac0de">
+      <a href="http://discord.com/users/k1llac0de" target="_blank"><img alt="Gmail" src="assets/icons8-discord.svg" height="25px"/></a>
+  </p>
 </div>
 
 
