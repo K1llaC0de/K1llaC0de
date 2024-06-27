@@ -4,11 +4,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=K1llaC0de" alt="K1llaC0de" /> </p>
 </br>
 
-<div style="text-align: center;">
+<p align="center">
       <a href="mailto:lauracode00@gmail.com" target="_blank"><img alt="Gmail" src="assets/gmail.svg" height="25px"/></a>
       <img src="assets/linkedin.svg" height="25px">
       <a href="http://discord.com/users/k1llac0de" target="_blank"><img alt="Discord" src="assets/discord.svg" height="25px"/></a>
-</div>
+</p>
 
 
 I'm a IT engineer from Spain who likes playing and discover new things about this wonderful world of programming.
