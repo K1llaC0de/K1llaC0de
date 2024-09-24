@@ -6,7 +6,7 @@
 
 <p align="center">
       <a href="mailto:lauracode00@gmail.com" target="_blank"><img alt="Gmail" src="assets/gmail.svg" height="25px"/></a>
-      <a href="http://discord.com/users/r4bbith4ck" target="_blank"><img alt="Discord" src="assets/discord.svg" height="25px"/></a>
+      <a href="http://discord.com/users/mamb4negra" target="_blank"><img alt="Discord" src="assets/discord.svg" height="25px"/></a>
 </p>
 
 
