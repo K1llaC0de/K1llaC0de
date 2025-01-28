@@ -10,7 +10,7 @@
 </p>
 
 
-I'm a IT engineer from Spain who likes playing and discover new things about this wonderful world of programming.
+I'm an IT engineer from Spain who likes playing and discover new things about this wonderful world of programming.
 
   
 ### 👨🏻‍💻 Languages and Tools
