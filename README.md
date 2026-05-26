@@ -26,15 +26,16 @@ Tooling    Git · Linux · Figma · Kali Linux
 
 ### Experience
 
-**Full Stack Developer** · [IZERTIS] &nbsp;`2024 – present`
-- Developing and maintaining web applications in production using React and Java
-- Building and consuming REST APIs integrated with frontend Angular/React clients
-- Collaborating across the full development lifecycle from design to deployment
+**Full Stack Developer** · Izertis &nbsp;`2024 – present`
+- Migrating and redesigning a public administration application to a modern Angular + JavaScript frontend with Java backend, deployed on JBoss 7.2
+- Building and maintaining backend services using Oracle Service Bus (OSB)
+- Supporting legacy Java/JBoss applications for regional government systems
+- Writing frontend tests with Jasmine and Jest
 
-**Full Stack Intern** · [TSK] &nbsp;`2022 – 2024`
-- 2-year internship across frontend (Angular, Bootstrap) and backend (Node.js, Java)
-- Built Android features using Kotlin as part of a mobile development team
-- Gained hands-on experience with version control, code review and agile workflows
+**Full Stack Intern** · TSK &nbsp;`2022 – 2024`
+- Refactored several microfrontend modules, improving code quality and maintainability across the codebase
+- Designed and implemented a microfrontend for electrical and electronic engineering projects using Angular, TypeScript and Bootstrap
+- Covered end-to-end testing with Cypress
 
 ***
 
