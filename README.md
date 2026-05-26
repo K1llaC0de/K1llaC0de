@@ -1,43 +1,58 @@
-# Hi, I'm Laura 👋
+# Laura · Full Stack Engineer
 
-**Full Stack Engineer** · Spain · Open to remote opportunities
+<p align="left">
+  <a href="mailto:lauracode00@gmail.com"><img src="https://img.shields.io/badge/-lauracode00@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="http://discord.com/users/mamb4negr4"><img src="https://img.shields.io/badge/-mamb4negr4-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20roles-0e7a80?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=K1llaC0de&style=flat-square&color=0e7a80&label=profile+views"/>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Email-lauracode00%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lauracode00@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-mamb4negr4-5865F2?style=flat&logo=discord&logoColor=white)](http://discord.com/users/mamb4negr4)
-![Profile views](https://komarev.com/ghpvc/?username=K1llaC0de&style=flat&color=0e7a80)
+Full stack engineer with **3 years of hands-on experience** across web and mobile. I work comfortably on both sides of the stack — building interfaces in React and Angular, APIs in Node.js and Java, and native apps in Kotlin and Android Studio for Android and in XCode for iOS.
 
----
+Currently finishing my IT Engineering degree and looking for **remote roles** at European product companies or consultancies where technical depth matters.
 
-## About me
+***
 
-IT Engineering student finishing my degree, with 3 years of professional experience building full stack products. I enjoy working across the whole stack — from designing component architectures in React/Angular to building APIs in Node and Java.
+### Stack
 
-Currently interested in **remote roles** at product or consulting companies where I can grow into more senior responsibilities. Also exploring cybersecurity (purple team direction) on the side.
+```
+Frontend   React · Angular · TypeScript · JavaScript · Bootstrap
+Backend    Node.js · Java · Python
+Mobile     Kotlin · Android SDK · XCode
+Tooling    Git · Linux · Figma · Kali Linux
+```
 
----
+***
 
-## Tech stack
+### Experience
 
-**Frontend**  
-`React` `Angular` `TypeScript` `JavaScript` `Bootstrap`
+**Full Stack Developer** · [IZERTIS] &nbsp;`2024 – present`
+- Developing and maintaining web applications in production using React and Java
+- Building and consuming REST APIs integrated with frontend Angular/React clients
+- Collaborating across the full development lifecycle from design to deployment
 
-**Backend**  
-`Node.js` `Java` `Python`
+**Full Stack Intern** · [TSK] &nbsp;`2022 – 2024`
+- 2-year internship across frontend (Angular, Bootstrap) and backend (Node.js, Java)
+- Built Android features using Kotlin as part of a mobile development team
+- Gained hands-on experience with version control, code review and agile workflows
 
-**Mobile**  
-`Android Studio`
+***
 
-**Tooling & Design**  
-`Figma` `Git` `Linux / Kali`
+### Currently
 
----
+- 🎓 &nbsp;Finishing IT Engineering degree
+- 🌍 &nbsp;Open to remote full stack roles at European / international companies
+- 🔐 &nbsp;Building cybersecurity foundations — purple team direction, eJPTv2 path
 
-## Currently
+***
 
-- 🎓 Finishing my IT Engineering degree
-- 🔐 Building foundations in cybersecurity — eJPTv2 path
-- 🌍 Looking for remote full stack roles in European/international companies
+### Featured projects
 
----
+> 🚧 &nbsp;Coming soon — building public portfolio projects after June 2026. Watch this space.
 
-*Always open to interesting projects and conversations.*
+***
+
+<p align="left">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=K1llaC0de&show_icons=true&theme=transparent&hide_border=true&title_color=0e7a80&icon_color=0e7a80&text_color=888&count_private=true"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1llaC0de&layout=compact&theme=transparent&hide_border=true&title_color=0e7a80&text_color=888&langs_count=6"/>
+</p>
