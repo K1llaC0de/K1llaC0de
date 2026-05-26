@@ -3,7 +3,7 @@
 **Full Stack Engineer** · Spain · Open to remote opportunities
 
 [![Gmail](https://img.shields.io/badge/Email-lauracode00%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lauracode00@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-mamb4negra-5865F2?style=flat&logo=discord&logoColor=white)](http://discord.com/users/mamb4negr4)
+[![Discord](https://img.shields.io/badge/Discord-mamb4negr4-5865F2?style=flat&logo=discord&logoColor=white)](http://discord.com/users/mamb4negr4)
 ![Profile views](https://komarev.com/ghpvc/?username=K1llaC0de&style=flat&color=0e7a80)
 
 ---
