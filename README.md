@@ -1,59 +1,65 @@
-# Laura · Full Stack Engineer
+# Laura Fernández · Software Engineer
 
 <p align="left">
   <a href="mailto:lauracode00@gmail.com"><img src="https://img.shields.io/badge/-lauracode00@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="http://discord.com/users/mamb4negr4"><img src="https://img.shields.io/badge/-mamb4negr4-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20roles-0e7a80?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=K1llaC0de&style=flat-square&color=0e7a80&label=profile+views"/>
+  <a href="https://www.linkedin.com/in/laurafdezb/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Gij%C3%B3n%2C%20Spain-0e7a80?style=flat-square"/>
 </p>
 
-Full stack engineer with **3 years of hands-on experience** across web and mobile. I work comfortably on both sides of the stack — building interfaces in React and Angular, APIs in Node.js and Java, and native apps in Kotlin and Android Studio for Android and in XCode for iOS.
+Software engineer with **2.5 years of professional experience**, currently at Izertis working on integration services and applications for the regional government of Asturias. Backend-focused (Java, PL/SQL, Oracle Service Bus) with a frontend background in Angular and microfrontend architectures. Used to working with automated testing and code quality tools, and currently involved in bringing AI agents into my team's development workflow.
 
-Currently finishing my IT Engineering degree and looking for **remote roles** at European product companies or consultancies where technical depth matters.
+Interested in growing into roles with more technical responsibility, including systems and embedded software.
 
 ***
 
 ### Stack
 
 ```
-Frontend   React · Angular · TypeScript · JavaScript · Bootstrap
-Backend    Node.js · Java · Python
-Mobile     Kotlin · Android SDK · XCode
-Tooling    Git · Linux · Figma · Kali Linux
+Backend      Java · PL/SQL · Oracle Service Bus · REST / SOAP
+Frontend     Angular · TypeScript · JavaScript · HTML · CSS · Microfrontends
+Testing      Jest · SonarQube
+IoT          ESP32 · Arduino · Raspberry Pi · Elasticsearch · Grafana
+Tooling      Git · Linux · Technical documentation · AI agents for development
 ```
 
 ***
 
 ### Experience
 
-**Full Stack Developer** · Izertis (tech consultancy, Spain) &nbsp;`2024 – present`
-- Migrating and redesigning a public administration application to a modern Angular + JavaScript frontend with Java backend, deployed on JBoss 7.2
-- Building and maintaining backend services using Oracle Service Bus (OSB)
-- Supporting legacy Java/JBoss applications for regional government systems
-- Writing frontend tests with Jasmine and Jest
+**Full Stack Developer** · Izertis &nbsp;`Mar 2025 – present`
+- Developing and maintaining integration services on Oracle Service Bus (OSB)
+- Building *Terceros*, a person-data management system for the regional government of Asturias
+- Enhancements and bug fixes on regional government applications such as SIGUE BO
+- Automated testing with Jest; code quality and coverage analysis with SonarQube
+- Part of an internal OSB team initiative to use AI agents to automate development and integration tasks
 
-**Full Stack Intern** · TSK — Energy & Industrial Engineering (Spain) &nbsp;`2022 – 2024`
-- Refactored several microfrontend modules, improving code quality and maintainability across the codebase
-- Designed and implemented a microfrontend for electrical and electronic engineering projects using Angular, TypeScript and Bootstrap
-- Covered end-to-end testing with Cypress
+**Junior Developer (internship)** · Izertis &nbsp;`Oct 2024 – Mar 2025`
+- Joined the integrations team developing and fixing backend services; kept on after the internship
 
-***
-
-### Currently
-
-- 🎓 &nbsp;Finishing IT Engineering degree
-- 🌍 &nbsp;Open to remote full stack roles at European / international companies
-- 🔐 &nbsp;Building cybersecurity foundations — purple team direction, eJPTv2 path
+**Front-end Developer** · TSK — Electrical & Electronic Engineering &nbsp;`Jun 2022 – May 2023`
+- Designed and implemented a microfrontend for managing electrical and electronic engineering projects
+- Refactored several existing microfrontends to improve maintainability and consistency
 
 ***
 
 ### Featured projects
+**[Indoor air quality sensor network](https://digibuo.uniovi.es/dspace/handle/10651/85296)** · Bachelor's thesis, graded 10/10
+End-to-end IoT monitoring system: ESP32 nodes with environmental sensors, data centralised on a Raspberry Pi 4, indexed in Elasticsearch and visualised in real time with Grafana dashboards.
 
-> 🚧 &nbsp;Coming soon — building public portfolio projects after June 2026. Watch this space.
+**[Interactive portfolio](https://portfolio-laura-dev.netlify.app)** · Personal project
+My portfolio built as a mini-game: explore it to discover my experience and projects.
 
 ***
 
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=K1llaC0de&show_icons=true&theme=transparent&hide_border=true&title_color=0e7a80&icon_color=0e7a80&text_color=888&count_private=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1llaC0de&layout=compact&theme=transparent&hide_border=true&title_color=0e7a80&text_color=888&langs_count=6"/>
-</p>
+### Education
+
+**BSc in Software Engineering** · University of Oviedo &nbsp;`2026`
+Coursework and thesis completed; degree certificate pending an administrative credit recognition.
+
+***
+
+### Currently
+- 🔐 &nbsp;Studying a MSc in Cybersecurity and Security Information
+- 📚 &nbsp;Exploring DarFe's *Cybersecurity Technician* course and learning from their content
+- 💻 &nbsp;Continuously expanding my skills in in-demand languages and technologies beyond my day-to-day stack
+- 🌍 &nbsp;Spanish (native) · English (professional) · German (elementary)
